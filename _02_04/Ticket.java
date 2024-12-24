@@ -6,9 +6,9 @@ public class Ticket {
 
   }
 
-  private String destination;
-  private double price;
-  private boolean isReturn;
+  //private String destination;
+  //private double price;
+  //private boolean isReturn;
 
   // Add three methods to set the value of each field, called setDestination,
   // setPrice and setIsReturn.

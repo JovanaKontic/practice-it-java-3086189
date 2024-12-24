@@ -6,8 +6,8 @@ public class Ticket {
 
   }
 
-  private String destination;
-  private double price;
-  private boolean isReturn;
+  //private String destination;
+ // private double price;
+  //private boolean isReturn;
 
 }
