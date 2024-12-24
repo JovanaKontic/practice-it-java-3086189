@@ -60,3 +60,4 @@ public class Ticket {
   public boolean getIsReturn() {
     return isReturn;
   }
+}
