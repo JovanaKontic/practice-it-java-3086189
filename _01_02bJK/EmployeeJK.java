@@ -1,6 +1,6 @@
-package _01_02b;
+package _01_02bJK;
 
-public class Employee {
+public class EmployeeJK {
 
   public static void main(String[] args) {
 
