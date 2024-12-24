@@ -1,4 +1,4 @@
-package _02_02;
+package _02_06JK;
 
 public class Ticket {
 
@@ -37,10 +37,12 @@ public class Ticket {
     // ili
     // this.destination = destination;
   }
+
   public void setPrice(double price) {
-    //double price zato sto je price double
+    // double price zato sto je price double
     this.price = price;
   }
+
   public void setIsReturn(boolean isReturn) {
     this.isReturn = isReturn;
   }
@@ -50,11 +52,11 @@ public class Ticket {
   public String getDestination() {
     return destination;
   }
+
   public double getPrice() {
     return price;
   }
+
   public boolean getIsReturn() {
     return isReturn;
   }
-
-}
